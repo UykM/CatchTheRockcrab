@@ -9,7 +9,7 @@
 
 그 몬스터는 바로 ..
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2Fyamhib%2F220925006960%3FviewType%3Dpc&psig=AOvVaw2uHZFTHSqZgUmeD4sHoIha&ust=1710227165406000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjfjefS64QDFQAAAAAdAAAAABAE)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2Fyamhib%2F220925006960%3FviewType%3Dpc&psig=AOvVaw2uHZFTHSqZgUmeD4sHoIha&ust=1710227165406000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjfjefS64QDFQAAAAAdAAAAABAE" width="50" height="50"/>
 
 **바위게 !**  
 
