@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minkyu%20Shin&fontSize=32)
-
 ### 소환사의 협곡에 오신 것을 환영합니다 !
 ## Welcome to the summoners rift !
 
