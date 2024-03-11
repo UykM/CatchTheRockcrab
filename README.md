@@ -3,13 +3,13 @@
 ### 소환사의 협곡에 오신 것을 환영합니다 !
 ## Welcome to the summoners rift !
 
-<img src="https://i.namu.wiki/i/PkfdcxuA7nVdMYMwEvyIdsvk0Kx3RQk2x9DzIbtRwtLXnUNZEX6UtpztPTrZIouvt8_ro7-t-pma5vy-J2inPytwnjVD_rS-qzhfYiFPQEVvD3zbqTeY0kIAy8x8oVCY7zBytbJbXPSq237FkVXBOA.webp" width="500" height="300"/>
+<img src="https://i.namu.wiki/i/PkfdcxuA7nVdMYMwEvyIdsvk0Kx3RQk2x9DzIbtRwtLXnUNZEX6UtpztPTrZIouvt8_ro7-t-pma5vy-J2inPytwnjVD_rS-qzhfYiFPQEVvD3zbqTeY0kIAy8x8oVCY7zBytbJbXPSq237FkVXBOA.webp" width="600" height="300"/>
 
 당신은 어떤 몬스터를 잡기 위해 이곳으로 소환됐습니다  
 
 그 몬스터는 바로 ..
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2Fyamhib%2F220925006960%3FviewType%3Dpc&psig=AOvVaw2uHZFTHSqZgUmeD4sHoIha&ust=1710227165406000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjfjefS64QDFQAAAAAdAAAAABAE" width="50" height="50"/>
+<img src="http://attach.s.op.gg/forum/20180621223133_798595.jpeg" width="50" height="50"/>
 
 **바위게 !**  
 
