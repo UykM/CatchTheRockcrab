@@ -9,7 +9,7 @@
 
 그 몬스터는 바로 ..
 
-<img src="http://attach.s.op.gg/forum/20180621223133_798595.jpeg" width="50" height="50"/>
+<img src="http://attach.s.op.gg/forum/20180621223133_798595.jpeg" width="200" height="200"/>
 
 **바위게 !**  
 
