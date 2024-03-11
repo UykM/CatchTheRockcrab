@@ -3,13 +3,13 @@
 ### 소환사의 협곡에 오신 것을 환영합니다 !
 ## Welcome to the summoners rift !
 
-![](https://i.namu.wiki/i/PvdWilNYO0gXe_U4MRa8coTNqq-b8zI2_dzgVWeMDsC9qU9Hh1LpNJNauCxUhKKCj5WtWPuqFSJtBCxL66AP5WGQSJH_D3-FWQWr4_ds3wCOsMiLVxMhtKKPG9T6AUV9GzSkvXMW1zX7QpRsPjsjFw.webp)
+![](https://i.namu.wiki/i/PkfdcxuA7nVdMYMwEvyIdsvk0Kx3RQk2x9DzIbtRwtLXnUNZEX6UtpztPTrZIouvt8_ro7-t-pma5vy-J2inPytwnjVD_rS-qzhfYiFPQEVvD3zbqTeY0kIAy8x8oVCY7zBytbJbXPSq237FkVXBOA.webp)
 
 당신은 어떤 몬스터를 잡기 위해 이곳으로 소환됐습니다  
 
 그 몬스터는 바로 ..
 
-![](https://event.leagueoflegends.co.kr/the-terrible-truth-about-jungle-monsters/images/noblood-scuttle.png)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2Fyamhib%2F220925006960%3FviewType%3Dpc&psig=AOvVaw2uHZFTHSqZgUmeD4sHoIha&ust=1710227165406000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjfjefS64QDFQAAAAAdAAAAABAE)
 
 **바위게 !**  
 
