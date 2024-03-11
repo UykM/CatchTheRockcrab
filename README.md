@@ -3,7 +3,7 @@
 ### 소환사의 협곡에 오신 것을 환영합니다 !
 ## Welcome to the summoners rift !
 
-<img src="https://i.namu.wiki/i/PkfdcxuA7nVdMYMwEvyIdsvk0Kx3RQk2x9DzIbtRwtLXnUNZEX6UtpztPTrZIouvt8_ro7-t-pma5vy-J2inPytwnjVD_rS-qzhfYiFPQEVvD3zbqTeY0kIAy8x8oVCY7zBytbJbXPSq237FkVXBOA.webp" width="300" height="300"/>
+<img src="https://i.namu.wiki/i/PkfdcxuA7nVdMYMwEvyIdsvk0Kx3RQk2x9DzIbtRwtLXnUNZEX6UtpztPTrZIouvt8_ro7-t-pma5vy-J2inPytwnjVD_rS-qzhfYiFPQEVvD3zbqTeY0kIAy8x8oVCY7zBytbJbXPSq237FkVXBOA.webp" width="500" height="300"/>
 
 당신은 어떤 몬스터를 잡기 위해 이곳으로 소환됐습니다  
 
